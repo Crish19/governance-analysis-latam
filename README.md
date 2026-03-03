@@ -81,3 +81,5 @@ Created as part of the Google Data Analytics Certificate program.
 
 ## License
 This project uses publicly available data from the World Bank.
+## Tableau Dashboard
+[View Interactive Dashboard](https://public.tableau.com/views/Governance-LatAm-2010-2023/Dashboard1)
